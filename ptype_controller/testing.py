@@ -1,7 +1,4 @@
-import control
 from sympy import *
-from control import *
-import matplotlib.pyplot as plt
 import pclass
 
 s = Symbol('s')
